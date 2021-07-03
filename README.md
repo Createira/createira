@@ -1,5 +1,5 @@
 ### Hi, I am Irina. 👋
 
-<img src="https://coverfiles.alphacoders.com/422/42267.jpg" alt="screen with some code">
+<img src="https://www.teahub.io/photos/full/21-217137_developer.png" alt="A closing tag on a purple background">
 
-I am a HTML/CSS coder who is passionate about creating accessible and responsive websites with exciting designs. Step by step I dive deep into Javascript and different preprocessors such as Less/Sass. Currently I am creating my portfolio as a good practise what I've learned before. 
+Highly-motivated, ambitious and easily trained Junior Frontenf Developer with no work experience, however with a great desire to study, work, solve tasks and enhance skills.
